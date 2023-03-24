@@ -11,5 +11,7 @@ pip install beautifulsoup4
 download the chrome driver windows version from here http://chromedriver.chromium.org/downloads and save in the script folder
 
 How to run:
-
 python3 depatment_scrapping.py
+
+Kaggle Dataset:
+https://www.kaggle.com/datasets/saitejasmopuri/amazon-product-data
